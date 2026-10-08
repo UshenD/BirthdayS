@@ -15,7 +15,7 @@ SIGNED_BY = "Yours, always"      # sign-off at the bottom of the letter
 FROM_NAME = "MALLI"                   # <- your name (optional), shown after the sign-off
 
 # ---------- Opening gift screen -------------------------------------------
-GATE_TITLE = "Psst... this is for you"
+GATE_TITLE = "Chukki... this is for you from your data scientist"
 GATE_TEXT = "Turn your sound on, then open your gift."
 GATE_BUTTON = "Open your gift"
 
@@ -31,14 +31,16 @@ HERO_HINT = "Tap me!"            # little hint under the photo
 # ---------- The letter ----------------------------------------------------
 LETTER_TITLE = "A little note for you"
 LETTER = [
-    "Happy birthday, my love.",
-    "I put this together because words alone were never going to be enough. "
-    "Scroll down and you'll find the little girl who started it all, the girl who grew up and "
-    "lit up every room she walked into, and the woman who turned my life into something I'm "
-    "so proud of.",
-    "Thank you for every laugh, every quiet moment, every time you chose us. "
-    "You make ordinary days feel like celebrations.",
-    "Now go on, take your time with these memories. Every photo here is a reason I'm grateful for you.",
+    "Happy birthday to the best sister in the world, my Chukki. ❤️",
+    "I don't think words will ever be enough to explain how grateful I am to have you as my sister.",
+    "From all our little fights and silly moments to all the memories we've made together, every moment with you is something I'll always treasure.",
+    "You have grown from the little girl I knew into an amazing woman, and I couldn't be more proud of you.",
+    "Thank you for every laugh, every conversation, every little moment, and for always being a part of my life.",
+    "No matter how old we get or where life takes us, you'll always be my Chukki. ❤️",
+    "I hope this birthday brings you all the happiness, love, and success you deserve.",
+    "Keep smiling, keep shining, and never forget how much you mean to me.",
+    "Happy Birthday, Chukki. ❤️🎂",
+    "Love you always."
 ]
 
 # ---------- Photo chapters -------------------------------------------------
